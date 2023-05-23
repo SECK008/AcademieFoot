@@ -1,0 +1,94 @@
+.logo1 {
+    width: 70px;
+    height: inherit;
+   margin-left: 25%;
+}
+
+/*CCS PIEDS DE PAGES*/
+/* .conteneur{
+    display: flex;
+    flex-direction: row;
+}
+footer{
+    margin-top: 2%;
+}
+footer h2{
+    margin-bottom: 10px;
+}
+footer ul li{
+    list-style-type: none;
+    color: white;
+    text-decoration: none;
+    margin: 5px;
+}
+.footer-contenu{
+    width: 50%;
+    background-color: #111;
+    color: #eee;
+    padding: 20px;
+} */
+.footer2 {
+    background-color: gray;
+    padding: 0.1%;
+}
+.footer2 p {
+    float: center;
+    margin-top: 0.5%;
+    color: white;
+    text-align: center;
+    font-family: italic;
+
+}
+.btn {
+    display: inline-block;
+    margin-top: 1rem;
+    padding: 1rem 3rem;
+    font-size: 1.2rem;
+    border: 0.1rem solid maroon;
+    background: #f0fdfa;
+    color: black;
+    cursor: pointer;
+    text-transform: capitalize;
+  }
+  
+  .btn:hover {
+    background: maroon;
+    color: #fff;
+  }
+
+  .btn1 {
+    cursor: pointer;
+    text-transform: capitalize;
+    display: inline-block;
+    text-decoration: none;
+    margin-top: 15%;
+    border-radius: 5px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    text-align: center;
+
+  }
+.card {
+    border: none;
+}
+.card-img-overlay {
+    /* color: black; */
+    text-transform: uppercase;
+    
+}
+.footer-contenu ul {
+    list-style: none;
+    
+}
+.actualite {
+    background-color: gray;
+    color: white;
+}
+.nav-link {
+    color: white;
+}
+h5 p {
+    text-align: center; 
+    text-transform: uppercase; 
+    margin: 2%;
+    text-align: justify;
+}
